@@ -1,12 +1,12 @@
 {
-  "name": "SADUx_bot",
-  "version": "1",
-  "description": "A Simple WhatsApp bot created By Mr~SADU",
-  "main": "SADU.js",
+  "name": "Queen_Anju",
+  "version": "4",
+  "description": "A Simple WhatsApp bot created By King-Rashmika",
+  "main": "queen.js",
   "scripts": {
-    "start": "pm2 start SADU.js --deep-monitoring --attach --name SADUx_bot",
-    "stop": "pm2 stop SADUx_bot",
-    "restart": "pm2 restart SADUx_bot"
+    "start": "pm2 start queen.js --deep-monitoring --attach --name Queen_Anju",
+    "stop": "pm2 stop Queen_Anju",
+    "restart": "pm2 restart Queen_Anju"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
